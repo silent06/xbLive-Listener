@@ -2,6 +2,8 @@
 
 Listener for xbLive Stealth Server. SQL db can be found in XbLive-Content https://github.com/silent06/xbLive-Content/tree/main
 
+Dont forget to setup XbLive API challenge listener before using xbLive Listener. https://github.com/silent06/xbLive-Challenge-API
+
 
 Things I added/fixed:
 -B03 Anticheat bypasses works now
