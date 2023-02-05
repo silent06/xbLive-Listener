@@ -13,9 +13,9 @@ Things I added/fixed:
 
 -Fixed COD Patches, AntiCheat, & Mod menu(s)
 
--added KvHandler to add kv info appropriately to sql backend. It will sort out kv.bin's into the kvs folder. 
+-added KvHandler to add kv info appropriately to sql backend. It will sort out kv.bin's into the kv folder. 
 
--added KVChecker to be ran every 24/hr to check if kv's are banned or unbanned. Either use windows Event handler or linux cron job to setup
+-added KVChecker to be ran every 24/hr to check if kv's are banned or unbanned. Either use windows task scheduler(https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10) or linux cron job to setup(https://help.dreamhost.com/hc/en-us/articles/215767047-Creating-a-custom-Cron-Job)
 
 -added MysqlConfig.ini & Settings.ini to all apps
 
