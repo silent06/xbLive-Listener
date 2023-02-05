@@ -1,5 +1,7 @@
 # xbLive-Listener
 
+Last worked on this back in november 2022. 
+
 Listener for xbLive Stealth Server. SQL db can be found in XbLive-Content https://github.com/silent06/xbLive-Content/tree/main
 
 Dont forget to setup XbLive API challenge listener before using xbLive Listener. https://github.com/silent06/xbLive-Challenge-API
